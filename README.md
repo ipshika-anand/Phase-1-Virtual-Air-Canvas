@@ -1,3 +1,5 @@
+## Mini Project: Phase 1
+
 ## VIRTUAL AIR CANVAS: Hand Gesture Controlled Digital Blackboard
 
 ## Project Overview
